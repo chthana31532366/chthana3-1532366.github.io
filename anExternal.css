@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+
+h2 {
+    color: yellow;
+    margin-left: 15px;
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+p {
+    color: maroon;
+    margin-left: 50px;
+}
+
+}
+
+p.round3 {
+    border: 2px solid black;
+    border-radius: 12px;
+}
