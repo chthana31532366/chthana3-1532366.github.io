@@ -1,0 +1,73 @@
+body {
+	background-color: #F1EFB9;
+	background-image: url('pastel.jpg');
+	background-attachment: fixed;
+}
+
+#First {
+	font-size: 15px; 
+	font-family: "Arial"; 
+	color: #3F67DA; 
+	font-weight: bold;
+	width: 100%;
+	border:solid 8px navy;
+	border-radius: 30px;
+	text-align: left; 
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+
+}
+
+#Second {
+	font-size: 15px; 
+	font-family: "Arial"; 
+	color: #D4B26A; 
+	font-weight: bold;
+	width: 100%;
+	border:solid 8px brown;
+	border-radius: 30px;
+	text-align: left;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+
+}
+
+#Third {
+	font-size: 15px; 
+	font-family: "Arial"; 
+	color: #BA5C1F; 
+	font-weight: bold;
+	width: 100%;
+	border:solid 8px grey;
+	border-radius: 30px;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+
+}
+
+#Forth {
+	font-size: 15px; 
+	font-family: "Arial"; 
+	color: #800939; 
+	font-weight: bold;
+	width: 100%;
+	border:solid 8px purple;
+	border-radius: 30px;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+}
+
+legend{ font-size: 30px; font-family: "Century Gothic"; color: #E16344; font-weight: bold; }
+h2{ font-size: 50px; font-family: "Eurostile"; color: #8C6A11; font-weight: bold; }
+label{ font-size: 15px; font-family: "Avenir"; color: #0E5C09; font-weight: bold; }
+th{ font-size: 13px; font-family: "Avenir"; color: #1919A7; font-weight: bold; }
+
+
+
+
